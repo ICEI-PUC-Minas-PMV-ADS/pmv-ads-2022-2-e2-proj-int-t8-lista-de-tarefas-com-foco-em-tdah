@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# ORGANIZADOR DE ROTINA PARA PESSOAS QUE SOFREM COM DÉFICIT DE ATENÇÃO
 
 `CURSO` - Análise e Desenvolvimento de Sistemas
 
