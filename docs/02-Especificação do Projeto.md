@@ -50,10 +50,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ## Restrições
 
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|ID| Restrição                                                                          |
+|--|------------------------------------------------------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre                              |
+|02| A Equipe não pode subcontratar o desenvolvimento da aplicação                      |
+|03| A aplicação deve ser restringida às Tecnologias listadas pela instituição de ensino|
 
 
 
