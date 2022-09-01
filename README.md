@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Arthur Emanoel Coelho de Paula
 * Khaio Henrique de Oliveira Camargos
 * Armando Xavier de Amorim
-* Nome completo do aluno 4
+* Daniel de Oliveira Marcelino
 
 ## Orientador
 
