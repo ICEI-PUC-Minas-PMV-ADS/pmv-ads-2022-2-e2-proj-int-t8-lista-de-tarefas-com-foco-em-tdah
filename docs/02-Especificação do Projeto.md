@@ -34,14 +34,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF1 |O sistema deve ter um campo para digitar as tarefa do usuário.  | ALTA | 
-|RF2 |O sistema deve ter um botão para confirmar as tarefa e suas configurações.   | ALTA |
-|RF3 |O sistema deve ter um campo para receber as tarefas confirmadas.  | ALTA | 
-|RF4 |O  sistema deve ter um botão para conclusão e exclusão das tarefas recebidas.    | ALTA |
-|RF5 |O sistema deve permitir a configurações de data e horário para as tarefas que o usuário desejar. .  | ALTA | 
-|RF6 |O sistema deve emitir um alerta para tarefas que tiverem data e horários definidos, sendo 1 dia ou 30 minutos respectivamente.    | ALTA |
-|RF7 |O sistema deve permitir que os usuário criem e façam login em seus perfis.   | ALTA | 
-|RF8 |O sistema deve ter um botão que permita a configuraçao de um contador pomodoro.     | ALTA |
+|RF 1 |O sistema deve ter um campo para digitar as tarefa do usuário.  | ALTA | 
+|RF 2 |O sistema deve ter um botão para confirmar as tarefa e suas configurações.   | ALTA |
+|RF 3 |O sistema deve ter um campo para receber as tarefas confirmadas.  | ALTA | 
+|RF 4 |O  sistema deve ter um botão para conclusão e exclusão das tarefas recebidas.    | ALTA |
+|RF 5 |O sistema deve permitir a configurações de data e horário para as tarefas que o usuário desejar. .  | ALTA | 
+|RF 6 |O sistema deve emitir um alerta para tarefas que tiverem data e horários definidos, sendo 1 dia ou 30 minutos respectivamente.    | ALTA |
+|RF 7 |O sistema deve permitir que os usuário criem e façam login em seus perfis.   | ALTA | 
+|RF 8 |O sistema deve ter um botão que permita a configuraçao de um contador pomodoro.     | ALTA |
 
 ### Requisitos não Funcionais
 
