@@ -6,7 +6,13 @@
 
 `SEMESTRE` - Eixo 2 - Turma 08 - 2022/2
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo deste projeto é desenvolver uma ferramenta que auxilie no dia a dia a das pessoas com TDAH maximizando a sua produtividade.
+
+Como objetivos específicos, podemos destacar: 
+
+* Permitir a criação e gerenciamento de uma lista de tarefas e lembretes dos compromissos do usuário.
+
+* Permitir a configuração de notificações para auxiliar na recordação dos compromissos.
 
 ## Integrantes
 
