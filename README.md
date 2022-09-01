@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO` - Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA` - Projeto: Desenvolvimento de uma Aplicação Interativa
 
-`SEMESTRE`
+`SEMESTRE` - Eixo 2 - Turma 08 - 2022/2
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Daniela Carvalho Monteiro Ferreira
 
 ## Instruções de utilização
 
