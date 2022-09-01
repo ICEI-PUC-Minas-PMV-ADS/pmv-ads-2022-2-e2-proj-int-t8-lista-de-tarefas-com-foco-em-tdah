@@ -32,7 +32,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|IDs    | Descrição do Requisito  | Prioridade |
+|IDs                  | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-1 |O sistema deve ter um campo para digitar as tarefa do usuário.  | ALTA | 
 |RF-2 |O sistema deve ter um botão para confirmar as tarefa e suas configurações.   | ALTA |
