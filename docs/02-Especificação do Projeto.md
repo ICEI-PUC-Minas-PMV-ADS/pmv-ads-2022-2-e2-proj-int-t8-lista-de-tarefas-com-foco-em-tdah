@@ -24,12 +24,13 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Tendo em vista as nescessidades identificadas juntamente com as personas encontradas para este trabalho foram registradas as seguintes Historias de usuário. 
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR` |  
+|--------------------|-------------------------------------------------------------|-------------------------------------------------|
+|PersonaDoGrupo      | PODER GERENCIAR MINHAS TAREFAS DIÁRIAS                      | EVITAR ESQUECÊ-LAS NO DIA A DIA                 |
+|PersonaDoGrupo      |ADICIONAR LEMBRETES A RESPEITO DE DATAS IMPORTANTES PARA MIM | PODER RELEMBRAR QUANDO A DATA ESTIVER PRÓXIMA   |
+|PersonaDoGrup       |ALGUM AUXÍLIO QUE ME PERMITA TER MAIS FOCO                   |REALIZAR COM MAIS EFICÁCIA MINHAS TAREFAS DIÁRIAS|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
