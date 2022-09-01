@@ -19,10 +19,10 @@
 Tendo em vista as nescessidades identificadas juntamente com as personas encontradas para este trabalho foram registradas as seguintes Historias de usuário. 
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR` |  
-|--------------------|-------------------------------------------------------------|-------------------------------------------------|
-|PersonaDoGrupo      | PODER GERENCIAR MINHAS TAREFAS DIÁRIAS                      | EVITAR ESQUECÊ-LAS NO DIA A DIA                 |
-|PersonaDoGrupo      |ADICIONAR LEMBRETES A RESPEITO DE DATAS IMPORTANTES PARA MIM | PODER RELEMBRAR QUANDO A DATA ESTIVER PRÓXIMA   |
-|PersonaDoGrup       |ALGUM AUXÍLIO QUE ME PERMITA TER MAIS FOCO                   |REALIZAR COM MAIS EFICÁCIA MINHAS TAREFAS DIÁRIAS|
+|--------------------|-------------------------------------------------------------|-----------------------------------------------------|
+|Marcos Villela      | CRIAR LEMBRETES                                             | PARA LEMBRAR MINHAS TAREFAS PESSOAIS E PROFISSIONAIS|
+|Jennifer Vênus       |PODER ORGANIZAR MEUS CONTEÚDOS CRIADOS                      |PARA POSTAR EM MINHAS REDES SOCIAIS                  |
+
 
 
 ## Requisitos
