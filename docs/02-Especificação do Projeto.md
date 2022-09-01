@@ -8,7 +8,7 @@
 
 
 ## Personas
-! [Marcao](https://tvshowbrasil.online/wp-content/uploads/2022/09/persona1.jpg))
+![Marcao](https://tvshowbrasil.online/wp-content/uploads/2022/09/persona1.jpg)
 
 
 
