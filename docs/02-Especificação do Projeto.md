@@ -72,3 +72,7 @@ Esta Tabela representam os requisito snão funcionais do sistema
 ## Diagrama de Casos de Uso
 
 
+# Rerências
+
+BITTENCOURT, Claudia. TDAH atinge de 3 a 6% da população mundial. 2012. Disponível em: < https://www.unasus.gov.br/noticia/tdah-atinge-de-3-6-da-populacao-mundial#:~:text=Dados%20da%20comunidade%20m%C3%A9dica%20e,a%20hiperatividade%20e%20a%20impulsividade.>. Acesso em: 05 de set. 2022. 
+
