@@ -25,9 +25,8 @@ Tendo em vista as nescessidades identificadas juntamente com as personas encontr
 
 
 
-## Requisitos
+## Requisitos e restrições do projeto 
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
@@ -43,6 +42,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-8 |O sistema deve ter um botão que permita a configuraçao de um contador pomodoro.     | BAIXA |
 |RF-9 |O sistema deve permitir oraganizar as tarefas por grupos (Ex: Trabalho, estudos, Filmes para assistir.) | MÉDIA |
 ### Requisitos não Funcionais
+
+| ID ⠀⠀⠀| Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RNF-1 |O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku). |Alta |
+|RNF-2 |O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).|Alta |
+|RNF-3 |A aplicação deve ser responsiva podendo ser visualizada de forma adequada em um telefone móvel.|Alta |
+|RNF-4 |O site deve possuir elementos que facilitem questões de foco e agilidade quanto as tarefas do mesmo.|Baixa |
 
 
 
