@@ -71,6 +71,7 @@ Esta Tabela representam os requisito snão funcionais do sistema
 
 ## Diagrama de Casos de Uso
 
+![Diagrama](https://tvshowbrasil.online/wp-content/uploads/2022/09/MicrosoftTeams-image.png)
 
 # Rerências
 
