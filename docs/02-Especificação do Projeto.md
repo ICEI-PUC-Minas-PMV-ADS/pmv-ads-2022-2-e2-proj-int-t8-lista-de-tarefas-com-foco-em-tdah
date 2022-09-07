@@ -29,6 +29,7 @@ Tendo em vista as nescessidades identificadas juntamente com as personas encontr
 
 
 ### Requisitos Funcionais
+A tabela a seguir representam os requisitos funcionais do sistema, identificados por ordem de prioridade em que devem ser entregues. 
 
 | ID ⠀⠀⠀| Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -41,7 +42,9 @@ Tendo em vista as nescessidades identificadas juntamente com as personas encontr
 |RF-7 |O sistema deve permitir que os usuário criem e façam login em seus perfis.   | ALTA | 
 |RF-8 |O sistema deve ter um botão que permita a configuraçao de um contador pomodoro.     | BAIXA |
 |RF-9 |O sistema deve permitir oraganizar as tarefas por grupos (Ex: Trabalho, estudos, Filmes para assistir.) | MÉDIA |
+
 ### Requisitos não Funcionais
+Esta Tabela representam os requisito snão funcionais do sistema 
 
 | ID ⠀⠀⠀| Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
