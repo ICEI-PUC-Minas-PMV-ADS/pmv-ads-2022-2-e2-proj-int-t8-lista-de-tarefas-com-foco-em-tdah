@@ -61,9 +61,10 @@ Esta Tabela representam os requisito snão funcionais do sistema
 
 |ID| Restrição                                                                          |
 |--|------------------------------------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre                              |
-|02| A Equipe não pode subcontratar o desenvolvimento da aplicação                      |
-|03| A aplicação deve ser restringida às Tecnologias listadas pela instituição de ensino|
+|RE-01| A aplicação correspondente ao trabalho deve ser entregue até a data final de 11/12/22 e não além dela, respeitando também as datas de entrega de cada etapa do mesmo. |
+|RE-02| O Trabalho deve estar entre os melhores das turmas do curso e ser apresentado na Mostra de Projetos ao fim do semestre.|
+|RE-03| A aplicação deve se restringir as tecnologias utilizadas pela instituição de ensino|
+|RE-04| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 
 
 
