@@ -20,6 +20,7 @@ Como objetivos específicos, podemos destacar:
 * Khaio Henrique de Oliveira Camargos
 * Armando Xavier de Amorim
 * Daniel de Oliveira Marcelino
+* Luiz Guilherme Martins Franchim
 
 ## Orientador
 
