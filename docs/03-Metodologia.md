@@ -18,7 +18,7 @@ Alguns artefatos necessitam de auxílio ou dependências de outras plataformas a
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este processo é apresentada no vídeo "The gitflow workflow - in less than 5 mins". 
 
 
-[![imagem](link to image on GH)]([link to your URL](https://codigomaromba.files.wordpress.com/2019/01/gitflow-1.png))
+[![imagem]([link to image on GH](https://codigomaromba.files.wordpress.com/2019/01/gitflow-1.png))]([link to your URL])
 
 
 
