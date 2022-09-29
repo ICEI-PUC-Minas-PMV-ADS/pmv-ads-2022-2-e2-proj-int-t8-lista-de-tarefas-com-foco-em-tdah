@@ -11,6 +11,9 @@ Alguns artefatos necessitam de auxílio ou dependências de outras plataformas a
 |Projeto de Interface e  Wireframes   |Figma  |[Link De Acesso](https://www.figma.com/proto/rA04tAV4z4qOTfMCyPVoNd/TDHA?node-id=1%3A90&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A90  )
 |Gerenciamento do Projeto   |Trello  |[Link De Acesso](https://trello.com/invite/b/0GetobEB/e4380521f73703045cc00099f95e2f61/sprint)
 
+##Gestão de código fonte 
+
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este processo é apresentada no vídeo "The gitflow workflow - in less than 5 mins". 
 
 
 
