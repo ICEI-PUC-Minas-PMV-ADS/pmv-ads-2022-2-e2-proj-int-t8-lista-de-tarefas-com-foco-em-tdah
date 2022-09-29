@@ -6,7 +6,7 @@ Alguns artefatos necessitam de auxílio ou dependências de outras plataformas a
 
 | Ambiente⠀⠀| Plataforma  | Link De Acesso |
 |------|-----------------------------------------|----|
-|Repositório de código fonte |GitHub |Alta |[Link De Acesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t8-lista-de-tarefas-com-foco-em-tdah )
+|Repositório de código fonte |GitHub |[Link De Acesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t8-lista-de-tarefas-com-foco-em-tdah )
 
 
 A ferramenta de controle de versão adotada no projeto foi o
