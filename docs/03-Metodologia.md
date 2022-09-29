@@ -53,3 +53,18 @@ Equipe de Design
 - Daniel de oliveira 
 
 - Arthur Coelho 
+
+
+Para distribuição das tarefas o grupo utiliza um quadro no Trello com as seguintes listas: 
+
+- Backlog: Tarefas a serem selecionadas e trabalhadas por ordem de prioridade. 
+
+- Sprint da Semana: Tarefas a serem concluídas durante a sprint semanal. 
+
+- Em andamento: Tarefas sendo executadas por algum dos integrantes. 
+
+- Em revisão: Tarefas sendo revisadas e avaliadas para enfim serem de fato tomadas como concluídas. 
+
+- Concluído: Tarefas já executadas e avaliadas até o momento. 
+ quadro do trello está disponível no link a seguir, https://trello.com/b/0GetobEB/sprint.  
+
