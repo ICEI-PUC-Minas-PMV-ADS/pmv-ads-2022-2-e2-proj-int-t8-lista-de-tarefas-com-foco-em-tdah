@@ -25,7 +25,7 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 ## Gerenciamento do Projeto
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
 
-A equipe está organizada da seguinte maneira: 
+### A equipe está organizada da seguinte maneira: 
 
  Scrum Master
  
@@ -34,7 +34,7 @@ A equipe está organizada da seguinte maneira:
  Product Owner
  - Daniela Carvalho 
 
- Equipe de Desenvolvimento 
+ ### Equipe de Desenvolvimento 
 
 - Arthur Coelho 
 
@@ -48,7 +48,7 @@ A equipe está organizada da seguinte maneira:
 
 - Brenno Braga 
 
-Equipe de Design 
+###  Equipe de Design 
 
 - Daniel de oliveira 
 
@@ -68,3 +68,22 @@ Equipe de Design
 - Concluído: Tarefas já executadas e avaliadas até o momento. 
  quadro do trello está disponível no link a seguir, https://trello.com/b/0GetobEB/sprint.  
 
+## Ferramentas 
+
+### As ferramentas empregadas no projeto são: 
+
+Editor de código. 
+
+- Visual Studio Code. 
+
+### Ferramentas de comunicação 
+
+- Whatsapp. 
+
+- Discord. 
+
+- Teams. 
+
+### Ferramentas de desenho de tela (wireframing) 
+
+- Figma. 
