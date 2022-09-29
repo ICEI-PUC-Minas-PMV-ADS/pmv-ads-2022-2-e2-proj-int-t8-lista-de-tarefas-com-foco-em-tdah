@@ -22,8 +22,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![iframe1](img/iframe1.png)
+![iframe2](img/iframe2.png)
+![iframe3](img/iframe3.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+Clicando no Link Abaixo você poderá acessar o Wireframe mostrado acima de forma interativa!
+https://www.figma.com/proto/rA04tAV4z4qOTfMCyPVoNd/TDHA?node-id=1%3A90&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A90
  
 
