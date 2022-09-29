@@ -55,7 +55,7 @@ Equipe de Design
 - Arthur Coelho 
 
 
-Para distribuição das tarefas o grupo utiliza um quadro no Trello com as seguintes listas: 
+### Para distribuição das tarefas o grupo utiliza um quadro no Trello com as seguintes listas: 
 
 - Backlog: Tarefas a serem selecionadas e trabalhadas por ordem de prioridade. 
 
