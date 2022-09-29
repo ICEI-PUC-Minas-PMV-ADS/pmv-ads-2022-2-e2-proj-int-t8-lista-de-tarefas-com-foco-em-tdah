@@ -1,10 +1,11 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+## Relação de ambientes de trabalho 
+Alguns artefatos necessitam de auxílio ou dependências de outras plataformas a tabela a seguir representa a utilização de tais ferramentas. 
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
+|Ambiente|Plataforma|Link De Acesso
+|Repositório de código fonte |GitHub |[Link De Acesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t8-lista-de-tarefas-com-foco-em-tdah )
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
