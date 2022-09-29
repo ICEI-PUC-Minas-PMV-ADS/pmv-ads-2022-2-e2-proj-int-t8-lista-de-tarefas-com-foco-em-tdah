@@ -4,10 +4,10 @@
 ## Relação de ambientes de trabalho 
 Alguns artefatos necessitam de auxílio ou dependências de outras plataformas a tabela a seguir representa a utilização de tais ferramentas. 
 
-|Ambiente|Plataforma|Link De Acesso|
----------------------------------------
-|Repositório de código fonte |GitHub |[Link De Acesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t8-lista-de-tarefas-com-foco-em-tdah )|
-## Controle de Versão
+| Ambiente⠀⠀| Plataforma  | Link De Acesso |
+|------|-----------------------------------------|----|
+|Repositório de código fonte |GitHub |Alta |[Link De Acesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t8-lista-de-tarefas-com-foco-em-tdah )
+
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
