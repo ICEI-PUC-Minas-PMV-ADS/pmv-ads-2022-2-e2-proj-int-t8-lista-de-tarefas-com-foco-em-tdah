@@ -21,6 +21,7 @@ Como objetivos específicos, podemos destacar:
 * Armando Xavier de Amorim
 * Daniel de Oliveira Marcelino
 * Luiz Guilherme Martins Franchim
+* Fagner Vieira Pereira
 
 ## Orientador
 
