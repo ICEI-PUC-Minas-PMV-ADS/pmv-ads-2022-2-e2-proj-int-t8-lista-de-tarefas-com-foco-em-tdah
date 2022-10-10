@@ -1,4 +1,4 @@
-# ORGANIZADOR DE ROTINA PARA PESSOAS QUE SOFREM COM DÉFICIT DE ATENÇÃO
+# Lembree
 
 `CURSO` - Análise e Desenvolvimento de Sistemas
 
