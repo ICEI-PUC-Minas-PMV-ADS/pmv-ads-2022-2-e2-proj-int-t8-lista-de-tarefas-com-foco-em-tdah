@@ -9,7 +9,7 @@ Alguns artefatos necessitam de auxílio ou dependências de outras plataformas a
 |Repositório de código fonte |GitHub |[Link De Acesso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t8-lista-de-tarefas-com-foco-em-tdah )
 |Documentos do projeto  |Teams  |[Link De Acesso](https://teams.microsoft.com/_#/school/FileBrowserTabApp/T8%20-%20Grupo%2005?threadId=19:e3a210fbc64142639f5d0421acd08197@thread.tacv2&ctx=channel )
 |Projeto de Interface e  Wireframes   |Figma  |[Link De Acesso](https://www.figma.com/proto/rA04tAV4z4qOTfMCyPVoNd/TDHA?node-id=1%3A90&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A90  )
-|Gerenciamento do Projeto   |Trello  |[Link De Acesso](https://trello.com/invite/b/0GetobEB/e4380521f73703045cc00099f95e2f61/sprint)|
+|Gerenciamento do Projeto   |Aba de planejamento do Git Hub|
 
 
 
