@@ -63,7 +63,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 - Em revisão: Tarefas sendo revisadas e avaliadas para enfim serem de fato tomadas como concluídas. 
 
 - Concluído: Tarefas já executadas e avaliadas até o momento. 
- quadro do trello está disponível no link a seguir, https://trello.com/b/0GetobEB/sprint.  
+ quadro do trello está disponível no link a seguir
 
 ## Ferramentas 
 
