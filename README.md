@@ -16,12 +16,12 @@ Como objetivos específicos, podemos destacar:
 
 ## Integrantes
 
-* Arthur Emanoel Coelho de Paula
-* Khaio Henrique de Oliveira Camargos
-* Armando Xavier de Amorim
-* Daniel de Oliveira Marcelino
-* Luiz Guilherme Martins Franchim
-* Fagner Vieira Pereira
+* Arthur Emanoel Coelho de Paula.
+* Khaio Henrique de Oliveira Camargos.
+* Armando Xavier de Amorim.
+* Daniel de Oliveira Marcelino.
+* Luiz Guilherme Martins Franchim.
+* Fagner Vieira Pereira.
 
 ## Orientador
 
