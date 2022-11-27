@@ -28,7 +28,9 @@ Como objetivos específicos, podemos destacar:
 * Daniela Carvalho Monteiro Ferreira
 
 ## Instruções de utilização
-Link para utilização da aplicação https://baratok.online/
+Link para ver o funcionamento da aplicação em arquitetura MVC: https://youtu.be/SRv4nIGpvUk
+
+Link para utilização da aplicação em SPA: https://baratok.online/
 login: admin
 senha: admin
 # Documentação
