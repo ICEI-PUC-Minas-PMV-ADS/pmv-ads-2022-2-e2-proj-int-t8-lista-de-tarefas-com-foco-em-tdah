@@ -1,0 +1,13 @@
+﻿@model ContatoModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="text-center">
+    <h1>Deseja mesmo apagar essa tarefa?</h1>
+    </div> <!--Botão adicionar Contato-->
+<a role="button" class="btn btn-secondary" asp-controller="Contato" asp-action="Index">Cancelar exclusão</a>
+<a role="button" class="btn btn-danger" asp-route-id="@Model.Id" asp-controller="Contato" asp-action="ApagarAgora">Apagar</a>
